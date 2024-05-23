@@ -6,6 +6,7 @@ $(document).ready(function () {
         // autoplayTimeout: 3000,
         smartSpeed: 450,
         nav: true,
+        Infinity: true,
         navText: ['<span class="custom-prev">&lt;</span>', '<span class="custom-next">&gt;</span>'], // Custom navigation icons
         responsive: {
             0: {
